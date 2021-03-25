@@ -1,0 +1,6 @@
+router-id 6
+input-ports 4006
+outputs 4001-5-1, 4005-1-5
+update-interval 5
+route-timeout 30
+garbage-timeout 20
